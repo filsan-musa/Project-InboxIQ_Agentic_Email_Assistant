@@ -28,6 +28,8 @@ IBM watsonx Orchestrate
 
 IBM COS
 
+IBM watson studio
+
 Python ingestion tool
 
 Slack API
